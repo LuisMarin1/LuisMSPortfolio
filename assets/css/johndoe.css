@@ -11622,7 +11622,7 @@ pre .code {
 
 .contact {
   position: relative;
-  min-height: 700px;
+  min-height: 400px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -11657,13 +11657,14 @@ pre .code {
   top: 0;
   width: 100%;
   height: 100%;
+  background-color: #343A40;
 }
 
 .contact .contact-form-card,
 .contact .contact-info-card {
   padding: 35px;
   background: #fff;
-  min-height: 500px;
+  min-height: 300px;
 }
 
 .contact .contact-info-card {
