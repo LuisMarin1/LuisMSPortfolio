@@ -1,6 +1,24 @@
 {
     "Perfil": {
-        "hi" :"Hola, Soy",
+        "hi" :"Hola, soy",
         "rol": "Desarrollador Web | Analista"
+    },
+    "navegacion":{
+        "home": "Inicio",
+        "about-me":"Acerca de mi",
+        "resume": "Resumen",
+        "contact":"Contacto"
+    },
+    "acerca-de":{
+        "quien-soy": "Quien soy?",
+        "q-soy": "Mi enfoque profesional se caracteriza por una excelente capacidad de organización y una habilidad destacada para trabajar de manera efectiva en equipos colaborativos. Mi compromiso con la mejora constante y mi adaptabilidad en entornos en constante cambio son fundamentales para mi enfoque laboral.",
+        "i-personal": "Informacion Personal",
+        "edad": "Edad",
+        "correo": "Correo",
+        "celular": "Celular",
+        "direccion": "Direccion",
+        "experiencia": "Mi Experiencia",
+        "d-web": "Desarrollador Web",
+        "a-documentos": "Analista de Dcomuentos"
     }
 }

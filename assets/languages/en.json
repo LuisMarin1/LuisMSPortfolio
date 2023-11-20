@@ -1,6 +1,24 @@
 {
     "Perfil": {
-        "hi" :"Im",
-        "rol": "Web Developer | Analist"
+        "hi" :"I'm",
+        "rol": "Web Developer | Analyst"
+    },
+    "navegacion":{
+        "home": "Home",
+        "about-me":"About me",
+        "resume": "Resume",
+        "contact":"Contact"
+    },
+    "acerca-de":{
+        "quien-soy": "Who im I?",
+        "q-soy": "My professional approach is characterized by excellent organizational skills and an outstanding ability to work effectively in collaborative teams. My commitment to constant improvement and my adaptability in constantly changing environments are fundamental to my work approach.",
+        "i-personal": "Personal Info",
+        "edad": "Age",
+        "correo": "Mail",
+        "celular": "Phone",
+        "direccion": "Address",
+        "experiencia": "My Expertise",
+        "d-web": "Web Developer",
+        "a-documentos": "Document Analyst"
     }
 }
